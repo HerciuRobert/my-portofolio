@@ -36,9 +36,9 @@ const ServicesSection = () => {
                     </div>
                 </div>
             </div>
-            <div className="img">
+            {/* <div className="img">
                 <img src={home2} alt="change with creation image"/>
-            </div>
+            </div> */}
         </div>
     )
 }
