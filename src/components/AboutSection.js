@@ -1,5 +1,5 @@
 import React from 'react';
-import home1 from '../img/home1.png';
+import home1 from '../img/portofolio2.jpg';
 
 const AboutSection = () => {
     return (
@@ -16,9 +16,9 @@ const AboutSection = () => {
                 </div>
                 <p>A person with a new idea is a crank until the idea succeeds. - Mark Twain</p>
                 <button>Let's create</button>
-                <div className="image">
+                {/* <div className="image">
                     <img src={home1} alt="dude with camera for now"/>
-                </div>
+                </div> */}
             </div>
         </div>
     )
